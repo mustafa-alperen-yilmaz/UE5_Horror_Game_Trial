@@ -1,1 +1,3 @@
-# UE5_Horror_Game_Trial
+# HorrorGameTrial
+
+Developed with Unreal Engine 5
